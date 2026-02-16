@@ -51,6 +51,7 @@ Traversal Algorithms
 📂 Project Files
 assignment.c
 README.md
+Data Structures Assignment.docx
 
 👥 Group Members
 BSCCS/2025/43643 Clinton Kiplagat
